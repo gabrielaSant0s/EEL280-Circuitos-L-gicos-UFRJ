@@ -1,0 +1,4 @@
+s1 = Q2
+s2 = X.Q2'+Q1
+s3 = X.Q2+X.Q1
+reset = q1'.q2'.q3
